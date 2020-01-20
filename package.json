@@ -38,7 +38,7 @@
     "lodash": "^4.0.0",
     "material-ui": "^0.19.2",
     "module-alias": "^2.0.0",
-    "mongoose": "^4.8.5",
+    "mongoose": "^5.8.9",
     "node-sass": "^3.4.2",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
